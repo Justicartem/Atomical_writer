@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Author: Sandor Miguel Cruz Jiménez
+Author: Justicartem
 """
 
 from pathlib import Path
